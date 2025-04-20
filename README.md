@@ -13,3 +13,43 @@
 - 🌐 Interactive UI powered by [Gradio](https://gradio.app/)
 
 ---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/manahillllll/papergenie.git
+cd papergenie
+pip install -r requirements.txt
+
+---
+
+## ▶️ Run the App
+
+python main.py
+The app will launch in your browser at http://localhost:7860.
+
+---
+
+📦 Dependencies
+Key Python libraries used:
+transformers – for text summarization (BART model)
+gradio – interactive web UI
+requests – API and PDF downloads
+PyMuPDF (fitz) – PDF text extraction
+python-docx – Word document generation
+
+---
+
+📁 Output
+.docx Report: Contains each paper’s title, summary, arXiv link, and BibTeX citation
+Gradio Textbox: Instant summary view within the app
+
+---
+
+🙋‍♀️ Author
+Manahil Sarwar
+
+---
+
+📄 License
+This project is open-source and free to use under the MIT License.
