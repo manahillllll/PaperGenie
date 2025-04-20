@@ -14,6 +14,12 @@
 
 ---
 
+## 🎥 Demo
+
+<video src="demo.mp4" width="700" autoplay loop muted controls></video>
+
+---
+
 ## 🛠️ Installation
 
 git clone https://github.com/manahillllll/papergenie.git
