@@ -15,9 +15,9 @@
 ---
 
 ## 🎥 Demo
-
-<video src="demo.mp4" width="700" autoplay loop muted controls></video>
-
+- Check the video titled "demo.mp4" to see the interface.
+- Summarized_Papers.docx shows the output downloaded.
+  
 ---
 
 ## 🛠️ Installation
