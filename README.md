@@ -16,7 +16,7 @@
 
 ## 🎥 Demo
 
-<video src="video.mkv" width="700" autoplay loop muted controls></video>
+<video src="video.mp4" width="700" autoplay loop muted controls></video>
 
 ---
 
