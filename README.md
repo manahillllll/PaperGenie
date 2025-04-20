@@ -16,7 +16,6 @@
 
 ## 🛠️ Installation
 
-```bash
 git clone https://github.com/manahillllll/papergenie.git
 cd papergenie
 pip install -r requirements.txt
@@ -30,7 +29,7 @@ The app will launch in your browser at http://localhost:7860.
 
 ---
 
-📦 Dependencies
+## 📦 Dependencies
 Key Python libraries used:
 transformers – for text summarization (BART model)
 gradio – interactive web UI
@@ -40,16 +39,16 @@ python-docx – Word document generation
 
 ---
 
-📁 Output
+## 📁 Output
 .docx Report: Contains each paper’s title, summary, arXiv link, and BibTeX citation
 Gradio Textbox: Instant summary view within the app
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Manahil Sarwar
 
 ---
 
-📄 License
+## 📄 License
 This project is open-source and free to use under the MIT License.
